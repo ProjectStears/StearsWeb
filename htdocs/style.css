@@ -6,8 +6,8 @@ html {
 .outer {
     display: table;
     position: absolute;
-    height: 100%;
-    width: 100%;
+    height: 98%;
+    width: 98%;
 }
 
 .middle {
